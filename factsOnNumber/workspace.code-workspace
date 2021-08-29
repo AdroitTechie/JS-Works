@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "E:\\Daily_Works\\app\\chatapp"
+		},
+		{
+			"path": "E:\\Daily_Works\\React_Works"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "chatapp"
+	}
+}

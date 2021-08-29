@@ -1,0 +1,1 @@
+It is a simple website which provides the facts of the number you entered through Numberfacts API.This done using HTML, CSS and JavaScript with xhr ajax and Fetch API.
